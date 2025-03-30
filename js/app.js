@@ -1,6 +1,6 @@
 const question = [
     {
-        'que': 'Which of the following was a markup language?',
+        'que': 'Which of the following is a markup language?',
         'a': 'HTML',
         'b': 'CSS',
         'c': 'JavaScript',
